@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No:6.1  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 14-12-2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -39,14 +39,28 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+![image](https://github.com/user-attachments/assets/ad6666f6-e12b-41f3-ae14-e87cf422911c)
+![image](https://github.com/user-attachments/assets/c6469b44-740f-4b5e-9107-c2ce205e3b6e)
+![image](https://github.com/user-attachments/assets/9e6171ca-b333-4202-886d-a9300bd021c6)
+![image](https://github.com/user-attachments/assets/9d282454-f42b-400d-a4ef-272f7aea6e33)
+![image](https://github.com/user-attachments/assets/5ac949f5-4628-4b2c-83f2-dcb4f807adfe)
+![image](https://github.com/user-attachments/assets/e98edc1a-5988-4d5f-abfa-7bc246004915)
+
 
 ## Output:
+![image](https://github.com/user-attachments/assets/96554d5c-4206-43f0-93a4-cd770581d55b)
+![image](https://github.com/user-attachments/assets/7201f658-ca12-4a3f-9c3f-85cd56d9705f)
+![image](https://github.com/user-attachments/assets/639c5aa4-15ac-4301-a86a-4f5ff675f21d)
+![image](https://github.com/user-attachments/assets/bc0a5393-cc6b-4c96-bafd-3f0841b5dab7)
+![image](https://github.com/user-attachments/assets/1b9b0473-2142-47c8-8834-b2890c9a5ab9)
+![image](https://github.com/user-attachments/assets/95204d8d-86b9-447c-8a55-0e3a7963cf68)
 
-### Name:
-### Register Number:
+
+
+
+
+### Name: JAGANNIVASH UM
+### Register Number: 24900614
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
